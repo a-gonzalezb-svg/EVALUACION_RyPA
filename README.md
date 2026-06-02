@@ -7,4 +7,4 @@ Evaluación Razonamiento y Planificación Automática
 
 ## Archivo de evaluación
 
-[📄 Descargar evaluación](EVALUACION_RyPA/test razonamiento y planificacion automatica.pdf at main · a-gonzalezb-svg/EVALUACION_RyPA)
+[📄 Abrir evaluación](./test%20razonamiento%20y%20planificacion%20automatica.pdf)
